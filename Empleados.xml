@@ -1,0 +1,73 @@
+﻿<Empleados>
+  <Empleado>
+    <Id>1</Id>
+    <Nombre>Juan Pérez</Nombre>
+    <Edad>45</Edad>
+    <Departamento>TI</Departamento>
+    <Salario>55000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>2</Id>
+    <Nombre>Ana González</Nombre>
+    <Edad>34</Edad>
+    <Departamento>Marketing</Departamento>
+    <Salario>45000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>3</Id>
+    <Nombre>Carlos Ramírez</Nombre>
+    <Edad>39</Edad>
+    <Departamento>Ventas</Departamento>
+    <Salario>48000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>4</Id>
+    <Nombre>Laura Fernández</Nombre>
+    <Edad>29</Edad>
+    <Departamento>Recursos Humanos</Departamento>
+    <Salario>42000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>5</Id>
+    <Nombre>Pedro Martínez</Nombre>
+    <Edad>50</Edad>
+    <Departamento>Finanzas</Departamento>
+    <Salario>60000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>6</Id>
+    <Nombre>María López</Nombre>
+    <Edad>31</Edad>
+    <Departamento>Administración</Departamento>
+    <Salario>40000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>7</Id>
+    <Nombre>David Herrera</Nombre>
+    <Edad>37</Edad>
+    <Departamento>Logística</Departamento>
+    <Salario>47000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>8</Id>
+    <Nombre>Lucía Castro</Nombre>
+    <Edad>26</Edad>
+    <Departamento>Atención al Cliente</Departamento>
+    <Salario>38000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>9</Id>
+    <Nombre>Andrés Suárez</Nombre>
+    <Edad>41</Edad>
+    <Departamento>Operaciones</Departamento>
+    <Salario>52000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>10</Id>
+    <Nombre>Elena Ríos</Nombre>
+    <Edad>33</Edad>
+    <Departamento>Desarrollo</Departamento>
+    <Salario>53000</Salario>
+  </Empleado>
+</Empleados>
+
